@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>欢乐斗地主</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="game-container">
+        <!-- 游戏背景 -->
+        <div class="game-background"></div>
+        
+        <!-- 顶部玩家区域 -->
+        <div class="player-area top-player">
+            <div class="player-cards top-cards"></div>
+            <div class="player-info">
+                <div class="avatar">
+                    <img src="images/avatar-farmer.svg" alt="农民">
+                    <div class="role-badge farmer-badge hidden">农民</div>
+                </div>
+                <div class="player-name">电脑玩家1</div>
+                <div class="card-count">17张</div>
+            </div>
+        </div>
+        
+        <!-- 左侧玩家区域 -->
+        <div class="player-area left-player">
+            <div class="player-cards left-cards"></div>
+            <div class="player-info">
+                <div class="avatar">
+                    <img src="images/avatar-farmer.svg" alt="农民">
+                    <div class="role-badge farmer-badge hidden">农民</div>
+                </div>
+                <div class="player-name">电脑玩家2</div>
+                <div class="card-count">17张</div>
+            </div>
+        </div>
+        
+        <!-- 中央游戏区域 -->
+        <div class="center-area">
+            <!-- 底牌区域（顶部） -->
+            <div class="bottom-cards-area hidden">
+                <div class="bottom-cards-label">底牌</div>
+                <div class="landlord-cards"></div>
+            </div>
+            
+            <!-- 中央出牌区域 -->
+            <div class="play-area">
+                <div class="played-cards top-played"></div>
+                <div class="played-cards left-played"></div>
+                <div class="played-cards bottom-played"></div>
+            </div>
+            
+            <!-- 游戏信息显示 -->
+            <div class="game-info">
+                <div class="timer-display hidden">
+                    <span class="timer-label">剩余时间：</span>
+                    <span class="timer-value">15</span>
+                    <span class="timer-unit">秒</span>
+                </div>
+                <div class="current-turn hidden">轮到你出牌</div>
+                <div class="game-status">点击开始游戏</div>
+            </div>
+            
+            <!-- 叫地主按钮 -->
+            <div class="bid-buttons hidden">
+                <button class="btn btn-bid" data-score="3">叫地主</button>
+                <button class="btn btn-pass">不叫</button>
+            </div>
+            
+            <!-- 抢地主按钮 -->
+            <div class="grab-buttons hidden">
+                <button class="btn btn-grab">抢地主</button>
+                <button class="btn btn-pass-grab">不抢</button>
+            </div>
+        </div>
+        
+        <!-- 玩家自己的区域 -->
+        <div class="player-area bottom-player">
+            <div class="player-info">
+                <div class="avatar">
+                    <img src="images/avatar-player.svg" alt="玩家">
+                    <div class="role-badge landlord-badge hidden">地主</div>
+                </div>
+                <div class="player-name">我</div>
+                <div class="card-count">17张</div>
+            </div>
+            <div class="player-cards bottom-cards"></div>
+            
+            <!-- 玩家操作按钮 -->
+            <div class="action-buttons hidden">
+                <button class="btn btn-hint">提示</button>
+                <button class="btn btn-play" disabled>出牌</button>
+                <button class="btn btn-pass">不要</button>
+            </div>
+        </div>
+        
+        <!-- 开始游戏按钮 -->
+        <div class="start-screen">
+            <h1 class="game-title">欢乐斗地主</h1>
+            <button class="btn btn-start">开始游戏</button>
+        </div>
+        
+        <!-- 游戏结束界面 -->
+        <div class="game-over hidden">
+            <div class="result-panel">
+                <h2 class="result-title"></h2>
+                <div class="result-info"></div>
+                <button class="btn btn-restart">再来一局</button>
+            </div>
+        </div>
+        
+        <!-- 消息提示 -->
+        <div class="message-toast hidden"></div>
+    </div>
+    
+    <!-- 音效 -->
+    <audio id="bgm" loop>
+        <source src="audio/bgm.mp3" type="audio/mpeg">
+    </audio>
+    
+    <script src="js/card.js"></script>
+    <script src="js/player.js"></script>
+    <script src="js/cardType.js"></script>
+    <script src="js/ai.js"></script>
+    <script src="js/game.js"></script>
+    <script src="js/ui.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

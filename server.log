@@ -1,0 +1,111 @@
+127.0.0.1 - - [21/Oct/2025 07:50:53] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Oct/2025 07:50:54] "GET /images/avatar-farmer.svg HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 07:50:54] "GET /css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 07:50:54] "GET /images/avatar-player.svg HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 07:50:54] "GET /js/cardType.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 07:50:54] "GET /js/ai.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 07:50:54] code 404, message File not found
+127.0.0.1 - - [21/Oct/2025 07:50:54] "GET /audio/bgm.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [21/Oct/2025 07:50:54] "GET /js/card.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 07:50:54] "GET /js/player.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 07:50:54] "GET /js/main.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 07:50:54] "GET /js/ui.js HTTP/1.1" 200 -
+127.0.0.1 - - [21/Oct/2025 07:50:54] "GET /js/game.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:05:38] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Oct/2025 08:05:39] "GET /css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Oct/2025 08:05:39] "GET /images/avatar-farmer.svg HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:05:39] "GET /images/avatar-player.svg HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:05:39] "GET /js/card.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:05:39] "GET /js/game.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:05:39] "GET /js/main.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:05:39] code 404, message File not found
+127.0.0.1 - - [21/Oct/2025 08:05:39] "GET /audio/bgm.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [21/Oct/2025 08:05:39] "GET /js/cardType.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:05:39] "GET /js/ai.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:05:39] "GET /js/player.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:05:40] "GET /js/ui.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:20:42] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Oct/2025 08:20:42] "GET /images/avatar-player.svg HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:20:42] "GET /css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Oct/2025 08:20:42] "GET /images/avatar-farmer.svg HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:20:42] "GET /js/player.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:20:42] "GET /js/card.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:20:42] "GET /js/ai.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:20:42] "GET /js/ui.js HTTP/1.1" 200 -
+127.0.0.1 - - [21/Oct/2025 08:20:42] code 404, message File not found
+127.0.0.1 - - [21/Oct/2025 08:20:42] "GET /audio/bgm.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [21/Oct/2025 08:20:42] "GET /js/cardType.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:20:42] "GET /js/game.js HTTP/1.1" 200 -
+127.0.0.1 - - [21/Oct/2025 08:20:42] "GET /js/main.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:36:31] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Oct/2025 08:36:31] "GET /css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Oct/2025 08:36:31] "GET /images/avatar-farmer.svg HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:36:32] "GET /js/player.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:36:32] "GET /js/main.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:36:32] "GET /js/card.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:36:32] "GET /js/cardType.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:36:32] "GET /js/ui.js HTTP/1.1" 200 -
+127.0.0.1 - - [21/Oct/2025 08:36:32] code 404, message File not found
+127.0.0.1 - - [21/Oct/2025 08:36:32] "GET /audio/bgm.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [21/Oct/2025 08:36:32] "GET /js/ai.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:36:32] "GET /js/game.js HTTP/1.1" 200 -
+127.0.0.1 - - [21/Oct/2025 08:36:46] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Oct/2025 08:36:46] "GET /js/ui.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:36:46] "GET /images/avatar-player.svg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Oct/2025 08:36:46] code 404, message File not found
+127.0.0.1 - - [21/Oct/2025 08:36:46] "GET /audio/bgm.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [21/Oct/2025 08:36:46] "GET /css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:37:00] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:37:00] "GET /css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:37:00] "GET /js/ui.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:37:00] "GET /js/game.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:37:00] code 404, message File not found
+127.0.0.1 - - [21/Oct/2025 08:37:00] "GET /audio/bgm.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [21/Oct/2025 08:37:15] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:37:15] "GET /js/ui.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:37:15] "GET /css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:37:15] code 404, message File not found
+127.0.0.1 - - [21/Oct/2025 08:37:15] "GET /audio/bgm.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [21/Oct/2025 08:37:23] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Oct/2025 08:37:23] "GET /css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:37:23] "GET /js/ui.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:37:23] code 404, message File not found
+127.0.0.1 - - [21/Oct/2025 08:37:23] "GET /audio/bgm.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [21/Oct/2025 08:37:30] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:37:30] "GET /css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:37:30] "GET /js/game.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:37:30] "GET /js/ui.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:37:30] code 404, message File not found
+127.0.0.1 - - [21/Oct/2025 08:37:30] "GET /audio/bgm.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [21/Oct/2025 08:47:17] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:47:18] "GET /css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:47:18] "GET /images/avatar-player.svg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Oct/2025 08:47:18] "GET /js/ui.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:47:18] "GET /js/game.js HTTP/1.1" 200 -
+127.0.0.1 - - [21/Oct/2025 08:47:18] code 404, message File not found
+127.0.0.1 - - [21/Oct/2025 08:47:18] "GET /audio/bgm.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [21/Oct/2025 08:54:25] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Oct/2025 08:54:26] "GET /css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:54:26] "GET /images/avatar-farmer.svg HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:54:26] code 404, message File not found
+127.0.0.1 - - [21/Oct/2025 08:54:26] "GET /audio/bgm.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [21/Oct/2025 08:54:26] "GET /js/ai.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:54:26] "GET /js/cardType.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:54:26] "GET /js/player.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:54:26] "GET /js/card.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:54:26] "GET /js/ui.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:54:26] "GET /js/main.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 08:54:26] "GET /js/game.js HTTP/1.1" 200 -
+127.0.0.1 - - [21/Oct/2025 09:01:05] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Oct/2025 09:01:06] "GET /css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 09:01:06] "GET /js/ui.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 09:01:06] code 404, message File not found
+127.0.0.1 - - [21/Oct/2025 09:01:06] "GET /audio/bgm.mp3 HTTP/1.1" 404 -
+127.0.0.1 - - [21/Oct/2025 09:01:06] "GET /js/game.js HTTP/1.1" 200 -
+127.0.0.1 - - [21/Oct/2025 09:05:19] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Oct/2025 09:05:20] "GET /images/avatar-player.svg HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 09:05:20] "GET /css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 09:05:20] "GET /js/game.js HTTP/1.1" 200 -
+127.0.0.1 - - [21/Oct/2025 09:05:20] "GET /js/ui.js HTTP/1.1" 304 -
+127.0.0.1 - - [21/Oct/2025 09:05:20] code 404, message File not found
+127.0.0.1 - - [21/Oct/2025 09:05:20] "GET /audio/bgm.mp3 HTTP/1.1" 404 -
